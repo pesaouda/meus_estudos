@@ -1,14 +1,16 @@
 Mudança de carreira em TI:
 
 
-Alta Demanda e Oportunidades: O setor de TI continua a ser um dos mais aquecidos, com alta demanda por profissionais qualificados. A transformação digital acelerada pela pandemia impulsionou a necessidade de especialistas em tecnologia, criando um cenário favorável para quem busca uma transição de carreira.
+Alta Demanda e Oportunidades: O setor de TI continua a ser um dos mais aquecidos, com alta demanda por profissionais qualificados. 
+A transformação digital acelerada pela pandemia impulsionou a necessidade de especialistas em tecnologia, criando um cenário favorável para quem busca uma transição de carreira.
 Profissões em Destaque: Carreiras ligadas à análise de dados, cibersegurança e inteligência artificial (IA) estão em alta. Cargos como gerente de TI, desenvolvedor back-end, coordenador de segurança da informação e gerente de projetos estão entre os mais procurados.
-Bootcamps como Porta de Entrada: Bootcamps de tecnologia são uma opção popular para quem deseja mudar de carreira rapidamente. Esses cursos oferecem treinamento prático e focado nas habilidades exigidas pelo mercado. A DIO (Digital Innovation One), em colaboração com a Microsoft, oferece bootcamps com foco em computação em nuvem com Azure, ideais para iniciantes e profissionais em transição.
-Habilidades Essenciais: Além das habilidades técnicas, as soft skills são cada vez mais importantes. Pensamento crítico, comunicação clara, visão de negócios e capacidade de tomar decisões baseadas em dados são características valorizadas pelas empresas.
-Salários Atrativos: O setor de tecnologia oferece salários competitivos, com médias salariais que podem variar de Rú
- 15 mil - Rçõççãçãá
- 7 mil, podendo chegar a R$ 35 mil em cargos de gestão.
-Empresas Contratando: Diversas empresas estão com vagas abertas e oferecem programas de capacitação para atrair novos talentos. Microsoft, Vivo e Porto são algumas das empresas que oferecem programas de estágio e cursos gratuitos em tecnologia. A consultoria Labsit também está contratando profissionais sem diploma em TI, priorizando o perfil e conhecimento em tecnologia.
+Bootcamps como Porta de Entrada: Bootcamps de tecnologia são uma opção popular para quem deseja mudar de carreira rapidamente. Esses cursos oferecem treinamento prático e focado nas habilidades exigidas pelo mercado. 
+A DIO (Digital Innovation One), em colaboração com a Microsoft, oferece bootcamps com foco em computação em nuvem com Azure, ideais para iniciantes e profissionais em transição.
+Habilidades Essenciais: Além das habilidades técnicas, as soft skills são cada vez mais importantes. 
+Pensamento crítico, comunicação clara, visão de negócios e capacidade de tomar decisões baseadas em dados são características valorizadas pelas empresas.
+Salários Atrativos: O setor de tecnologia oferece salários competitivos, com médias salariais que podem variar de  15 mil - 7 mil, podendo chegar a R$ 35 mil em cargos de gestão.
+Empresas Contratando: Diversas empresas estão com vagas abertas e oferecem programas de capacitação para atrair novos talentos. 
+Microsoft, Vivo e Porto são algumas das empresas que oferecem programas de estágio e cursos gratuitos em tecnologia. A consultoria Labsit também está contratando profissionais sem diploma em TI, priorizando o perfil e conhecimento em tecnologia.
 Essas tendências indicam que a área de TI continua a ser promissora para quem busca uma mudança de carreira, oferecendo diversas oportunidades e salários atrativos.
 
 --------------------------------------------------------------
